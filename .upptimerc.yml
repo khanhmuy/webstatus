@@ -9,7 +9,7 @@ sites:
     url: https://bin.hmuy.me
   - name: jellyfin
     url: https://jellyfin.hmuy.me
-  - name: backup jellyfin
+  - name: jellyfin 2
     url: https://jellyfin2.hmuy.me
 
 status-website:
