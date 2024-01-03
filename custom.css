@@ -1,0 +1,12 @@
+:root {
+    --body-background-color: #1e1e2e;
+    --body-text-color: #cdd6f4;
+    --card-background-color: #181825;
+    --nav-background-color: #181825;
+    --nav-border-bottom-color: #f5c2e7;
+    --card-border-color: #f5c2e7;
+    --tag-up-background-color: #a6e3a1;
+    --tag-down-background-color: #f38ba8;
+    --tag-degraded-background-color: #f9e2af;
+  }
+  /* . . . */
