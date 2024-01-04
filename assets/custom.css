@@ -1,12 +1,16 @@
 :root {
     --body-background-color: #1e1e2e;
     --body-text-color: #cdd6f4;
-    --card-background-color: #181825;
     --nav-background-color: #181825;
-    --nav-border-bottom-color: #f5c2e7;
+    --card-background-color: #6c7086;
+    --nav-border-bottom-color: #f4c1e6;
+    --nav-current-border-bottom-color: #f5c2e7;
     --card-border-color: #f5c2e7;
     --tag-up-background-color: #a6e3a1;
+    --up-border-left-color: #a6e3a1;
     --tag-down-background-color: #f38ba8;
+    --down-border-left-color: #f38ba8;
     --tag-degraded-background-color: #f9e2af;
+    --degraded-border-left-color: #f9e2af;
   }
   /* . . . */
