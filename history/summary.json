@@ -4,19 +4,19 @@
     "url": "https://share.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/share.hmuy.me.ico",
     "slug": "picoshare",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
     "time": 659,
     "timeDay": 483,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-01-05": 55
+      "2024-01-05": 56
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bin.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.me.ico",
     "slug": "microbin",
-    "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
-    "time": 661,
-    "timeDay": 422,
-    "timeWeek": 661,
-    "timeMonth": 661,
-    "timeYear": 661,
+    "status": "up",
+    "uptime": "97.46%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 623,
+    "timeDay": 406,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-01-05": 71
+      "2024-01-05": 82
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.hmuy.me.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.02%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
     "time": 744,
     "timeDay": 472,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-01-05": 84
+      "2024-01-05": 96
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://jellyfin2.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin2.hmuy.me.ico",
     "slug": "jellyfin-2",
-    "status": "down",
-    "uptime": "96.67%",
-    "uptimeDay": "92.59%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "96.67%",
-    "time": 901,
-    "timeDay": 667,
-    "timeWeek": 901,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "96.32%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "96.32%",
+    "time": 784,
+    "timeDay": 510,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-01-05": 107
+      "2024-01-05": 119
     }
   }
 ]
