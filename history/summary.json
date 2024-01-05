@@ -4,9 +4,9 @@
     "url": "https://share.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/share.hmuy.me.ico",
     "slug": "picoshare",
-    "status": "up",
+    "status": "down",
     "uptime": "95.85%",
-    "uptimeDay": "90.06%",
+    "uptimeDay": "90.02%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "95.85%",
     "uptimeYear": "95.85%",
@@ -16,7 +16,7 @@
     "timeMonth": 816,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-01-05": 144
+      "2024-01-05": 145
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.me.ico",
     "slug": "microbin",
     "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "91.15%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "96.31%",
-    "uptimeYear": "96.31%",
+    "uptime": "96.67%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
     "time": 740,
     "timeDay": 613,
     "timeWeek": 740,
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-01-05": 128
+      "2024-01-05": 116
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.hmuy.me.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "92.59%",
-    "uptimeDay": "82.24%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "92.59%",
+    "uptime": "92.25%",
+    "uptimeDay": "81.36%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "92.25%",
     "time": 592,
     "timeDay": 263,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-01-05": 256
+      "2024-01-05": 269
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://jellyfin2.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin2.hmuy.me.ico",
     "slug": "jellyfin-2",
-    "status": "down",
-    "uptime": "92.78%",
-    "uptimeDay": "82.70%",
-    "uptimeWeek": "92.78%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "92.78%",
-    "time": 597,
-    "timeDay": 238,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "status": "up",
+    "uptime": "92.44%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "92.44%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "92.44%",
+    "time": 575,
+    "timeDay": 260,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2024-01-05": 250
+      "2024-01-05": 263
     }
   }
 ]
