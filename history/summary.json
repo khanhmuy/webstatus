@@ -4,71 +4,79 @@
     "url": "https://share.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/share.hmuy.me.ico",
     "slug": "picoshare",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 881,
-    "timeDay": 848,
+    "timeDay": 847,
     "timeWeek": 881,
     "timeMonth": 881,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 2
+    }
   },
   {
     "name": "microbin",
     "url": "https://bin.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.me.ico",
     "slug": "microbin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1056,
-    "timeDay": 1034,
+    "timeDay": 1047,
     "timeWeek": 1056,
     "timeMonth": 1056,
     "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "jellyfin",
     "url": "https://jellyfin.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.hmuy.me.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1086,
-    "timeDay": 990,
+    "timeDay": 1023,
     "timeWeek": 1086,
     "timeMonth": 1086,
     "timeYear": 1086,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "jellyfin 2",
     "url": "https://jellyfin2.hmuy.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin2.hmuy.me.ico",
     "slug": "jellyfin-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1047,
-    "timeDay": 973,
+    "timeDay": 1014,
     "timeWeek": 1047,
     "timeMonth": 1047,
     "timeYear": 1047,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   }
 ]
