@@ -4,22 +4,22 @@ repo: webstatus # The name of this repository
 
 sites:
   - name: picoshare
-    url: https://share.hmuy.me
+    url: https://share.hmuy.tech
   - name: microbin
-    url: https://bin.hmuy.me
+    url: https://bin.hmuy.tech
   - name: jellyfin
-    url: https://jellyfin.hmuy.me
+    url: https://jellyfin.hmuy.tech
   - name: jellyfin 2
-    url: https://jellyfin2.hmuy.me
+    url: https://jellyfin2.hmuy.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.hmuy.me
+  cname: status.hmuy.tech
   # baseUrl: /your-repo-name
-  logoUrl: https://share.hmuy.me/-3BQN9xvPUk/lol.png
+  logoUrl: https://share.hmuy.tech/-3BQN9xvPUk/lol.png
   name: hmuy's web status
-  themeUrl: https://status.hmuy.me/custom.css
+  themeUrl: https://status.hmuy.tech/custom.css
   introTitle: ""
   introMessage: ""
   navbar:
