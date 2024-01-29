@@ -11,6 +11,8 @@ sites:
     url: https://jellyfin.hmuy.tech
   - name: jellyfin 2
     url: https://jellyfin2.hmuy.tech
+  - name: screenshots
+    url: https://ss.hmuy.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
