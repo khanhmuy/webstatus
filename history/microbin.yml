@@ -1,7 +1,7 @@
 url: https://bin.hmuy.tech
-status: up
-code: 200
-responseTime: 1381
-lastUpdated: 2024-12-09T23:22:22.089Z
+status: down
+code: 502
+responseTime: 1840
+lastUpdated: 2024-12-10T07:20:47.311Z
 startTime: 2024-01-03T14:15:09.540Z
 generator: Upptime <https://github.com/upptime/upptime>
