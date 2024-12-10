@@ -1,7 +1,7 @@
 url: https://jellyfin2.hmuy.tech
-status: up
-code: 200
-responseTime: 1151
-lastUpdated: 2024-12-09T23:22:24.761Z
+status: down
+code: 502
+responseTime: 3728
+lastUpdated: 2024-12-10T07:21:12.042Z
 startTime: 2024-01-03T14:15:12.686Z
 generator: Upptime <https://github.com/upptime/upptime>
