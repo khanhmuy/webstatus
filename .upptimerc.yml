@@ -9,8 +9,6 @@ sites:
     url: https://bin.hmuy.live
   - name: jellyfin
     url: https://jellyfin.hmuy.live
-  - name: jellyfin 2
-    url: https://jellyfin2.hmuy.live
   - name: screenshots
     url: https://ss.hmuy.live
 
