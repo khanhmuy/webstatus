@@ -4,10 +4,10 @@
     "url": "https://share.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/share.hmuy.live.ico",
     "slug": "picoshare",
-    "status": "up",
-    "uptime": "93.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "93.93%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.03%",
     "time": 1363,
@@ -16,6 +16,7 @@
     "timeMonth": 2086,
     "timeYear": 1485,
     "dailyMinutesDown": {
+      "2025-08-04": 4,
       "2025-07-16": 28,
       "2025-07-08": 27,
       "2025-06-24": 107,
@@ -82,18 +83,19 @@
     "url": "https://bin.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.live.ico",
     "slug": "microbin",
-    "status": "up",
-    "uptime": "93.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "89.55%",
-    "time": 1720,
+    "status": "down",
+    "uptime": "93.43%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "89.59%",
+    "time": 1721,
     "timeDay": 1031,
     "timeWeek": 1442,
     "timeMonth": 2253,
     "timeYear": 1763,
     "dailyMinutesDown": {
+      "2025-08-04": 2,
       "2025-07-31": 142,
       "2025-07-18": 36,
       "2025-07-16": 27,
@@ -214,9 +216,7 @@
       "2024-09-15": 190,
       "2024-09-14": 473,
       "2024-09-13": 85,
-      "2024-08-30": 192,
-      "2024-08-26": 135,
-      "2024-08-25": 70
+      "2024-08-30": 192
     }
   },
   {
@@ -224,11 +224,11 @@
     "url": "https://jellyfin.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.hmuy.live.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "92.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.31%",
+    "status": "down",
+    "uptime": "92.20%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "87.63%",
     "time": 1626,
     "timeDay": 1170,
@@ -236,6 +236,7 @@
     "timeMonth": 1368,
     "timeYear": 1651,
     "dailyMinutesDown": {
+      "2025-08-04": 2,
       "2025-07-31": 142,
       "2025-07-18": 36,
       "2025-07-16": 27,
@@ -364,8 +365,7 @@
       "2024-09-13": 84,
       "2024-08-30": 192,
       "2024-08-26": 135,
-      "2024-08-25": 69,
-      "2024-08-22": 44
+      "2024-08-25": 69
     }
   },
   {
@@ -373,18 +373,19 @@
     "url": "https://ss.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/ss.hmuy.live.ico",
     "slug": "screenshots",
-    "status": "up",
-    "uptime": "93.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.22%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "89.63%",
-    "time": 1936,
+    "uptimeYear": "89.72%",
+    "time": 1938,
     "timeDay": 1415,
     "timeWeek": 2376,
     "timeMonth": 2206,
     "timeYear": 1996,
     "dailyMinutesDown": {
+      "2025-08-04": 0,
       "2025-07-31": 142,
       "2025-07-18": 36,
       "2025-07-16": 26,
@@ -502,8 +503,7 @@
       "2024-09-19": 1154,
       "2024-09-18": 1007,
       "2024-09-17": 275,
-      "2024-09-14": 474,
-      "2024-09-13": 84
+      "2024-09-14": 83
     }
   }
 ]
