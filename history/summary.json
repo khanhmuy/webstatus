@@ -89,17 +89,17 @@
     "url": "https://bin.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.live.ico",
     "slug": "microbin",
-    "status": "up",
-    "uptime": "95.54%",
-    "uptimeDay": "91.28%",
+    "status": "down",
+    "uptime": "95.56%",
+    "uptimeDay": "91.27%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "89.42%",
-    "uptimeYear": "91.62%",
-    "time": 2245,
-    "timeDay": 1658,
-    "timeWeek": 1584,
-    "timeMonth": 3098,
-    "timeYear": 2403,
+    "uptimeYear": "91.66%",
+    "time": 2244,
+    "timeDay": 1447,
+    "timeWeek": 1484,
+    "timeMonth": 3033,
+    "timeYear": 2400,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-10-27": 38,
@@ -212,8 +212,7 @@
       "2024-12-20": 1000,
       "2024-12-19": 158,
       "2024-12-16": 320,
-      "2024-12-15": 21,
-      "2024-12-13": 178
+      "2024-12-15": 21
     }
   },
   {
