@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.live.ico",
     "slug": "microbin",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.94%",
@@ -101,7 +101,7 @@
     "timeDay": 1385,
     "timeWeek": 1357,
     "timeMonth": 3871,
-    "timeYear": 2595,
+    "timeYear": 2598,
     "dailyMinutesDown": {
       "2025-11-27": 121,
       "2025-11-26": 244,
@@ -354,18 +354,19 @@
     "url": "https://ss.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/ss.hmuy.live.ico",
     "slug": "screenshots",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.53%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.06%",
-    "uptimeYear": "91.63%",
-    "time": 2475,
-    "timeDay": 1577,
-    "timeWeek": 1472,
-    "timeMonth": 4069,
-    "timeYear": 2637,
+    "uptimeYear": "91.64%",
+    "time": 2490,
+    "timeDay": 6924,
+    "timeWeek": 2822,
+    "timeMonth": 4259,
+    "timeYear": 2657,
     "dailyMinutesDown": {
+      "2025-12-11": 0,
       "2025-11-27": 105,
       "2025-11-26": 242,
       "2025-11-25": 82,
@@ -474,8 +475,7 @@
       "2025-01-11": 216,
       "2025-01-10": 507,
       "2025-01-08": 414,
-      "2025-01-07": 467,
-      "2025-01-04": 56
+      "2025-01-07": 467
     }
   }
 ]
