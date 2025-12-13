@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.live.ico",
     "slug": "microbin",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.94%",
@@ -354,18 +354,19 @@
     "url": "https://ss.hmuy.live",
     "icon": "https://icons.duckduckgo.com/ip3/ss.hmuy.live.ico",
     "slug": "screenshots",
-    "status": "up",
-    "uptime": "95.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.63%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "95.01%",
-    "uptimeYear": "91.64%",
-    "time": 2487,
-    "timeDay": 1445,
-    "timeWeek": 2961,
-    "timeMonth": 4254,
-    "timeYear": 2660,
+    "uptimeYear": "91.80%",
+    "time": 2503,
+    "timeDay": 6729,
+    "timeWeek": 3866,
+    "timeMonth": 4427,
+    "timeYear": 2678,
     "dailyMinutesDown": {
+      "2025-12-13": 0,
       "2025-12-11": 25,
       "2025-11-27": 105,
       "2025-11-26": 242,
@@ -473,9 +474,7 @@
       "2025-01-13": 326,
       "2025-01-12": 15,
       "2025-01-11": 216,
-      "2025-01-10": 507,
-      "2025-01-08": 414,
-      "2025-01-07": 467
+      "2025-01-10": 507
     }
   }
 ]
