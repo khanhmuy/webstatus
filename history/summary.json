@@ -6,14 +6,14 @@
     "slug": "picoshare",
     "status": "up",
     "uptime": "91.37%",
-    "uptimeDay": "84.89%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "83.26%",
-    "time": 3483,
-    "timeDay": 812,
-    "timeWeek": 836,
-    "timeMonth": 2014,
+    "time": 3484,
+    "timeDay": 925,
+    "timeWeek": 857,
+    "timeMonth": 2019,
     "timeYear": 4231,
     "dailyMinutesDown": {
       "2026-03-10": 193,
@@ -139,15 +139,15 @@
     "slug": "microbin",
     "status": "up",
     "uptime": "90.22%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "80.70%",
-    "time": 3455,
-    "timeDay": 1004,
-    "timeWeek": 1016,
-    "timeMonth": 2208,
-    "timeYear": 3934,
+    "time": 3454,
+    "timeDay": 1149,
+    "timeWeek": 1056,
+    "timeMonth": 2217,
+    "timeYear": 3935,
     "dailyMinutesDown": {
       "2026-03-10": 193,
       "2026-03-09": 42,
@@ -284,8 +284,7 @@
       "2025-03-18": 214,
       "2025-03-17": 249,
       "2025-03-16": 751,
-      "2025-03-15": 107,
-      "2025-03-11": 145
+      "2025-03-15": 107
     }
   },
   {
@@ -295,15 +294,15 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "90.23%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "80.71%",
-    "time": 2545,
-    "timeDay": 986,
-    "timeWeek": 1002,
-    "timeMonth": 2228,
-    "timeYear": 2735,
+    "time": 2547,
+    "timeDay": 1288,
+    "timeWeek": 1085,
+    "timeMonth": 2256,
+    "timeYear": 2737,
     "dailyMinutesDown": {
       "2026-03-10": 193,
       "2026-03-09": 42,
@@ -441,8 +440,7 @@
       "2025-03-18": 213,
       "2025-03-17": 249,
       "2025-03-16": 730,
-      "2025-03-15": 106,
-      "2025-03-11": 145
+      "2025-03-15": 106
     }
   },
   {
@@ -452,14 +450,14 @@
     "slug": "screenshots",
     "status": "up",
     "uptime": "90.21%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "97.14%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "80.66%",
     "time": 3549,
-    "timeDay": 969,
-    "timeWeek": 1239,
-    "timeMonth": 2360,
+    "timeDay": 1099,
+    "timeWeek": 1234,
+    "timeMonth": 2349,
     "timeYear": 3921,
     "dailyMinutesDown": {
       "2026-03-10": 193,
@@ -598,8 +596,7 @@
       "2025-03-18": 207,
       "2025-03-17": 235,
       "2025-03-16": 713,
-      "2025-03-15": 103,
-      "2025-03-11": 145
+      "2025-03-15": 103
     }
   }
 ]
