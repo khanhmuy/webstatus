@@ -6,15 +6,15 @@
     "slug": "picoshare",
     "status": "up",
     "uptime": "91.43%",
-    "uptimeDay": "90.12%",
-    "uptimeWeek": "94.50%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "96.04%",
     "uptimeMonth": "98.66%",
-    "uptimeYear": "83.24%",
+    "uptimeYear": "83.30%",
     "time": 3463,
-    "timeDay": 886,
-    "timeWeek": 823,
-    "timeMonth": 923,
-    "timeYear": 4136,
+    "timeDay": 1090,
+    "timeWeek": 845,
+    "timeMonth": 922,
+    "timeYear": 4143,
     "dailyMinutesDown": {
       "2026-03-16": 74,
       "2026-03-15": 143,
@@ -130,8 +130,7 @@
       "2025-03-21": 350,
       "2025-03-20": 242,
       "2025-03-19": 224,
-      "2025-03-18": 217,
-      "2025-03-17": 252
+      "2025-03-18": 217
     }
   },
   {
@@ -140,16 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.fyi.ico",
     "slug": "microbin",
     "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "94.94%",
+    "uptime": "90.88%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "96.49%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "80.77%",
-    "time": 3435,
-    "timeDay": 1028,
-    "timeWeek": 967,
-    "timeMonth": 1131,
-    "timeYear": 3887,
+    "uptimeYear": "80.84%",
+    "time": 3430,
+    "timeDay": 1333,
+    "timeWeek": 1005,
+    "timeMonth": 1130,
+    "timeYear": 3893,
     "dailyMinutesDown": {
       "2026-03-16": 74,
       "2026-03-15": 143,
@@ -287,8 +286,7 @@
       "2025-03-21": 334,
       "2025-03-20": 240,
       "2025-03-19": 196,
-      "2025-03-18": 214,
-      "2025-03-17": 249
+      "2025-03-18": 214
     }
   },
   {
@@ -298,15 +296,15 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "90.60%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "95.26%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "80.79%",
+    "uptimeYear": "80.86%",
     "time": 2526,
-    "timeDay": 1277,
-    "timeWeek": 1078,
-    "timeMonth": 1206,
-    "timeYear": 2707,
+    "timeDay": 1297,
+    "timeWeek": 1136,
+    "timeMonth": 1207,
+    "timeYear": 2709,
     "dailyMinutesDown": {
       "2026-03-16": 74,
       "2026-03-15": 110,
@@ -445,8 +443,7 @@
       "2025-03-21": 334,
       "2025-03-20": 229,
       "2025-03-19": 196,
-      "2025-03-18": 213,
-      "2025-03-17": 249
+      "2025-03-18": 213
     }
   },
   {
@@ -456,15 +453,15 @@
     "slug": "screenshots",
     "status": "up",
     "uptime": "90.91%",
-    "uptimeDay": "90.10%",
-    "uptimeWeek": "94.93%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "98.71%",
-    "uptimeYear": "80.72%",
+    "uptimeYear": "80.79%",
     "time": 3528,
-    "timeDay": 918,
-    "timeWeek": 1008,
+    "timeDay": 1036,
+    "timeWeek": 1065,
     "timeMonth": 1261,
-    "timeYear": 3871,
+    "timeYear": 3848,
     "dailyMinutesDown": {
       "2026-03-16": 74,
       "2026-03-15": 143,
@@ -603,8 +600,7 @@
       "2025-03-21": 346,
       "2025-03-20": 534,
       "2025-03-19": 193,
-      "2025-03-18": 207,
-      "2025-03-17": 235
+      "2025-03-18": 207
     }
   }
 ]
