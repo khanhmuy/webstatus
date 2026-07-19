@@ -4,17 +4,17 @@
     "url": "https://share.hmuy.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/share.hmuy.fyi.ico",
     "slug": "picoshare",
-    "status": "up",
-    "uptime": "92.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "92.67%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "82.97%",
-    "time": 3950,
-    "timeDay": 1113,
-    "timeWeek": 1154,
-    "timeMonth": 1727,
-    "timeYear": 4278,
+    "time": 3981,
+    "timeDay": 10273,
+    "timeWeek": 3439,
+    "timeMonth": 2280,
+    "timeYear": 4309,
     "dailyMinutesDown": {
       "2025-08-04": 213,
       "2025-08-14": 33,
@@ -124,7 +124,8 @@
       "2026-05-26": 297,
       "2026-05-28": 275,
       "2026-06-28": 8,
-      "2026-06-27": 814
+      "2026-06-27": 814,
+      "2026-07-19": 4
     }
   },
   {
@@ -132,17 +133,17 @@
     "url": "https://bin.hmuy.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hmuy.fyi.ico",
     "slug": "microbin",
-    "status": "up",
-    "uptime": "91.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.13%",
+    "status": "down",
+    "uptime": "91.96%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "82.35%",
-    "time": 3850,
-    "timeDay": 1075,
-    "timeWeek": 1305,
-    "timeMonth": 1874,
-    "timeYear": 4189,
+    "time": 3877,
+    "timeDay": 10382,
+    "timeWeek": 3603,
+    "timeMonth": 2431,
+    "timeYear": 4221,
     "dailyMinutesDown": {
       "2025-07-31": 142,
       "2025-08-04": 211,
@@ -255,7 +256,8 @@
       "2026-05-26": 296,
       "2026-05-28": 535,
       "2026-06-28": 8,
-      "2026-06-27": 812
+      "2026-06-27": 812,
+      "2026-07-19": 3
     }
   },
   {
@@ -263,17 +265,17 @@
     "url": "https://jellyfin.hmuy.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.hmuy.fyi.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "92.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "82.80%",
-    "time": 2954,
-    "timeDay": 1492,
-    "timeWeek": 1877,
-    "timeMonth": 2489,
-    "timeYear": 3358,
+    "time": 2989,
+    "timeDay": 10598,
+    "timeWeek": 4105,
+    "timeMonth": 3027,
+    "timeYear": 3396,
     "dailyMinutesDown": {
       "2025-07-31": 142,
       "2025-08-04": 211,
@@ -382,7 +384,8 @@
       "2026-05-26": 295,
       "2026-05-28": 534,
       "2026-06-28": 8,
-      "2026-06-27": 811
+      "2026-06-27": 811,
+      "2026-07-19": 1
     }
   },
   {
@@ -390,17 +393,17 @@
     "url": "https://ss.hmuy.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/ss.hmuy.fyi.ico",
     "slug": "screenshots",
-    "status": "up",
-    "uptime": "91.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.88%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "82.82%",
-    "time": 3886,
-    "timeDay": 1456,
-    "timeWeek": 1625,
-    "timeMonth": 2132,
-    "timeYear": 4263,
+    "time": 3913,
+    "timeDay": 10676,
+    "timeWeek": 3909,
+    "timeMonth": 2687,
+    "timeYear": 4295,
     "dailyMinutesDown": {
       "2025-07-31": 142,
       "2025-08-04": 207,
@@ -509,7 +512,8 @@
       "2026-05-26": 293,
       "2026-05-28": 533,
       "2026-06-28": 8,
-      "2026-06-27": 810
+      "2026-06-27": 810,
+      "2026-07-19": 0
     }
   }
 ]
